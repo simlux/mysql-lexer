@@ -1,0 +1,14 @@
+{
+    "name": "simlux/mysql-lexer",
+    "type": "library",
+    "require": {
+        "simlux/string-buffer": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Kleeschulte",
+            "email": "simlux78@gmail.com"
+        }
+    ]
+}
